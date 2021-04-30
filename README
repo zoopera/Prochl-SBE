@@ -1,0 +1,14 @@
+===Essentail scripts associated with the Prochlorococcus molecular dating analysis===
+
+HomoTest: Screen out the compositionally homogeneous orthologue gene families using P4 and prottest software. Input files are provided in the gz file.
+
+Phylogeny_construction: Scripts used for sequence pretreatment and partition identification. The software MAFFT, trimAl and PartitionFinder are required. Input sequences are provided, which are screened by HomoTest. 
+
+dRdC_cal: Scripts for dr/dc value calculation. The input file should be the alignments of single-copy orthologue gene families. 
+
+Mcmctree_without_outgroup: An example to show the parameter settings and the input data for molecular dating analysis of oxygenic Cyanobacteria group. The process is divided into three step. The first step roughly estimates the sequence evolutionary rate by calling BASEML. The second step estimate the gradient and Hessian that required for molecular dating analysis. The third step run the program MCMCTREE to estimate the posterior divergence time.
+
+Mcmctree_with_outgroup: Like the example shown without Cyanobacteria outgroup, essential input data and the program configure files are provided, but the phylogeny used in this case contain non-oxygenic Cyanobacteria lineages.
+
+Details and command line are available by request. 
+

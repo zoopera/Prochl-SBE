@@ -1,0 +1,6 @@
+   Copy the whole folder of "calc_TsTv_in_Windows" to windows. In windows, open "Command Prompt" and cd to "calc_TsTv_in_Windows".For example, 
+   $ cd C:\Users\Jessie\Desktop\calc_TsTv_in_Windows
+   Then run MEGA-CC with command below in Command Prompt:
+   $ M51CC.exe -a ts2tv.mao -d filelist.txt
+   The ouput file are under calc_TsTv_in_Windows\aligned_genes_fasta\M5CC_Out. We only need M5CC_Out\*.meg, so move them to a folder called "mega_out" 
+   and move "mega_out" folder to Linux "calc_TsTv_in_Windows" directory.
