@@ -12,3 +12,7 @@ Mcmctree_with_outgroup: Like the example shown without Cyanobacteria outgroup, e
 
 Details and command lines are available by request. 
 
+===Dataset description===
+Dataset_1.tbl: Genomic properties of 317 cyanobacteria downloaded from the NCBI public database, among which the 159 high-quality reference or representative genomes are shaded.
+Dataset_2.tbl: A list of the 27 genes used for the relaxed molecular clock analyses.
+Dataset_3.tbl: A list of the single-copy orthologous gene families used for phylogenomic construction. Among the 214 families, 90 (marked with asterisks) each show composition homogeneity in the protein sequences. The Clusters of Orthologous Groups (COGs) annotation is also provided.
