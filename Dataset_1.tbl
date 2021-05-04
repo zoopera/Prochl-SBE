@@ -1,0 +1,318 @@
+Organism	Taxonomy_ID	Genome_Size	GC%	Completeness(Contamination)	Refseq Category	Assembly Level	Ecotype
+Prochlorococcus_marinus_str_AS9601	146891	1.67	31.32	99.64	representative genome	Complete genome	HLII
+Prochlorococcus_marinus_str_MED4	59919	1.66	30.8	99.46	representative genome	Complete genome	HLI
+Prochlorococcus_marinus_str_MIT_9107	59921	1.7	31.02	99.46	representative genome	Contig	HLII
+Prochlorococcus_marinus_str_MIT_9201	93057	1.67	31.28	100	representative genome	Contig	HLII
+Prochlorococcus_marinus_str_MIT_9301	167546	1.64	31.34	99.46	representative genome	Complete genome	HLII
+Prochlorococcus_marinus_str_MIT_9303	59922	2.68	50.01	99.73	reference	Complete genome	LLIV
+Prochlorococcus_marinus_str_MIT_9312	74546	1.71	31.21	99.73	representative genome	Complete genome	HLII
+Prochlorococcus_marinus_str_MIT_9313	74547	2.41	50.74	99.18	representative genome	Complete genome	LLIV
+Prochlorococcus_marinus_str_MIT_9515	167542	1.7	30.79	100	representative genome	Complete genome	HLI
+Prochlorococcus_marinus_str_NATL2A	59920	1.84	35.12	98.64	representative genome	Complete genome	LLI
+Prochlorococcus_marinus_str_SS120	167539	1.75	36.44	100	reference	Complete genome	LLII/III
+Prochlorococcus_sp_MIT_0601	1499498	1.71	37.02	99.73	representative genome	Contig	LLII/III
+Prochlorococcus_sp_MIT_0603	1499500	1.75	36.35	100	representative genome	Contig	LLII/III
+Synechococcus_sp_CC9311	64471	2.61	52.45	99.73	representative genome	Complete genome	Synechococcus_5.1
+Synechococcus_sp_CC9902	316279	2.23	54.16	99.46	representative genome	Complete genome	Synechococcus_5.1
+Synechococcus_sp_KORDI-100	1280380	2.79	57.5	99.46	representative genome	Complete genome	Synechococcus_5.1
+Synechococcus_sp_KORDI-49	585423	2.59	61.37	99.37	representative genome	Complete genome	Synechococcus_5.1
+Synechococcus_sp_KORDI-52	585425	2.57	59.09	100	representative genome	Complete genome	Synechococcus_5.1
+Synechococcus_sp_RS9916	221359	2.66	59.8	99.73	representative genome	Scaffold	Synechococcus_5.1
+Synechococcus_sp_WH_7803	32051	2.37	60.24	99.18	representative genome	Complete genome	Synechococcus_5.1
+Synechococcus_sp_WH_8102	84588	2.43	59.41	99.46	representative genome	Complete genome	Synechococcus_5.1
+Prochlorococcus_marinus_str_EQPAC1	190047	1.65	30.79	99.46	na	Contig	HLI
+Prochlorococcus_marinus_str_GP2	59925	1.62	31.16	99.46	na	Contig	HLII
+Prochlorococcus_marinus_str_LG	167556	1.75	36.43	99.86	na	Contig	LLII/III
+Prochlorococcus_marinus_str_MIT_9116	167544	1.69	31.01	99.18	na	Contig	HLII
+Prochlorococcus_marinus_str_MIT_9123	167545	1.7	31.02	99.18	na	Contig	HLII
+Prochlorococcus_marinus_str_MIT_9202	93058	1.69	31.08	98.78	na	Scaffold	HLII
+Prochlorococcus_marinus_str_MIT_9211	93059	1.69	38.01	99.73	na	Chromosome	LLII/III
+Prochlorococcus_marinus_str_MIT_9215	93060	1.74	31.15	99.73	na	Complete genome	HLII
+Prochlorococcus_marinus_str_MIT_9302	74545	1.75	31.12	99.18	na	Contig	HLII
+Prochlorococcus_marinus_str_MIT_9311	167547	1.71	31.21	99.73	na	Contig	HLII
+Prochlorococcus_marinus_str_MIT_9314	167548	1.69	31.18	99.73	na	Contig	HLII
+Prochlorococcus_marinus_str_MIT_9321	167549	1.66	31.2	99.73	na	Contig	HLII
+Prochlorococcus_marinus_str_MIT_9322	167550	1.66	31.21	99.73	na	Contig	HLII
+Prochlorococcus_marinus_str_MIT_9401	167551	1.67	31.21	99.73	na	Contig	HLII
+Prochlorococcus_marinus_str_NATL1A	167555	1.86	34.98	98.91	na	Complete genome	LLI
+Prochlorococcus_marinus_str_PAC1	59924	1.84	35.09	99.18	na	Contig	LLI
+Prochlorococcus_marinus_str_SB	59926	1.67	31.5	99.91	na	Contig	HLII
+Prochlorococcus_marinus_str_SS2	167552	1.75	36.44	100	na	Contig	LLII/III
+Prochlorococcus_marinus_str_SS35	167553	1.75	36.44	99.86	na	Contig	LLII/III
+Prochlorococcus_marinus_str_SS51	167554	1.75	36.43	100	na	Contig	LLII/III
+Prochlorococcus_sp_MIT_0602	1499499	1.75	36.34	100	na	Contig	LLII/III
+Prochlorococcus_sp_MIT_0604	1501268	1.78	31.17	99.73	na	Complete genome	HLII
+Prochlorococcus_sp_MIT_0701	1499502	2.59	50.6	99.73	na	Contig	LLIV
+Prochlorococcus_sp_MIT_0702	1499503	2.58	50.6	99.73	na	Contig	LLIV
+Prochlorococcus_sp_MIT_0703	1499504	2.58	50.61	99.59	na	Contig	LLIV
+Prochlorococcus_sp_MIT_0801	1501269	1.93	34.91	99.18	na	Complete genome	LLI
+Prochlorococcus_sp_SS52	1499501	1.75	36.44	99.86	na	Contig	LLII/III
+Synechococcus_sp_BL107	313625	2.29	54.2	99.46	na	Scaffold	Synechococcus_5.1
+Synechococcus_sp_CC9605	110662	2.51	59.22	99.73	na	Complete genome	Synechococcus_5.1
+Synechococcus_sp_CC9616	110663	2.65	56.52	99.46	na	Scaffold	Synechococcus_5.1
+Synechococcus_sp_WH_7805	59931	2.63	57.49	99.73	na	Scaffold	Synechococcus_5.1
+Synechococcus_sp_WH_8016	166318	2.69	54.09	99.18	na	Contig	Synechococcus_5.1
+Synechococcus_sp_WH_8109	166314	2.11	60.09	99.46	na	Complete genome	Synechococcus_5.1
+Acaryochloris_marina_MBIC11017	329726	8.36	46.96	99.53	representative genome	Complete genome	-
+Aliterella_atlantica_CENA595	1618023	5.27	42.6	94.22	representative genome	Contig	-
+Anabaena_cylindrica_PCC_7122	272123	7.06	38.79	99.44	representative genome	Complete genome	-
+Anabaena_sp_90	46234	5.31	38.1	99.67	representative genome	Complete genome	-
+Anabaena_sp_PCC_7108	163908	5.89	38.77	99.63	representative genome	Scaffold	-
+Aphanizomenon_flos-aquae_NIES-81	284502	5.85	37.37	99.44	representative genome	Scaffold	-
+Arthrospira_platensis_NIES-39	696747	6.79	43.65	99.13	representative genome	Chromosome	-
+Calothrix_sp_336_3	1337936	6.42	41.1	100	representative genome	Complete genome	-
+Calothrix_sp_PCC_6303	1170562	6.96	39.8	99.76	representative genome	Complete genome	-
+Calothrix_sp_PCC_7103	32057	11.58	38.53	99.39	representative genome	Scaffold	-
+Calothrix_sp_PCC_7507	99598	7.02	42.25	99.11	representative genome	Complete genome	-
+Candidatus_Atelocyanobacterium_thalassa_isolate_ALOHA	1453429	1.44	31.12	73.92	representative genome	Complete genome	-
+Candidatus_Synechococcus_spongiarum_SH4	1451353	1.66	63.05	83.83	representative genome	Contig	-
+Chlorogloeopsis_fritschii_PCC_6912	211165	7.75	41.48	99.64	representative genome	Contig	-
+Chroococcidiopsis_thermalis_PCC_7203	251229	6.69	44.47	99.63	representative genome	Complete genome	-
+Chroogloeocystis_siderophila_5-2_s-c-1	247279	5.01	42.88	99.78	representative genome	Contig	-
+Coleofasciculus_chthonoplastes_PCC_7420	118168	8.68	45.29	98.93	representative genome	Scaffold	-
+Crinalium_epipsammum_PCC_9333	1173022	5.62	40.16	99.48	representative genome	Complete genome	-
+Crocosphaera_watsonii_WH_8501	165597	6.24	37.11	99.74	representative genome	Scaffold	-
+Cyanobacterium_aponinum_PCC_10605	755178	4.18	34.93	99.45	representative genome	Complete genome	-
+Cyanobium_gracile_PCC_6307	292564	3.34	68.71	99.73	representative genome	Complete genome	-
+Cyanobium_sp_PCC_7001	180281	2.83	68.7	99.46	representative genome	Scaffold	-
+Cyanothece_sp_ATCC_51142	43989	5.46	37.94	99.96	representative genome	Complete genome	-
+Cyanothece_sp_PCC_7424	65393	6.55	38.51	99.71	representative genome	Complete genome	-
+Cyanothece_sp_PCC_7425	395961	5.79	50.65	99.29	representative genome	Complete genome	-
+Cyanothece_sp_PCC_7822	497965	7.84	39.9	99.82	representative genome	Complete genome	-
+Cyanothece_sp_PCC_8801	41431	4.79	39.76	99.56	representative genome	Complete genome	-
+Cylindrospermum_stagnale_PCC_7417	56107	7.61	42.2	99.78	representative genome	Chromosome	-
+Dactylococcopsis_salina_PCC_8305	13035	3.78	42.44	99.55	representative genome	Complete genome	-
+Dolichospermum_circinale_AWQC310F	553470	4.41	37.33	99.56	representative genome	Scaffold	-
+Fischerella_sp_PCC_9605	1173024	8.08	42.6	100	representative genome	Scaffold	-
+Fischerella_thermalis_PCC_7521	98439	5.44	41.02	99.76	representative genome	Contig	-
+Fortiea_contorta_PCC_7126	643473	5.74	42.2	99.56	representative genome	Scaffold	-
+Geitlerinema_sp_PCC_7407	1173025	4.68	58.46	99.87	representative genome	Complete genome	-
+Geminocystis_herdmanii_PCC_6308	113355	4.26	34.28	99.78	representative genome	Chromosome	-
+Gloeobacter_kilaueensis_JS1	1183438	4.72	60.54	98.29	representative genome	Complete genome	-
+Gloeobacter_violaceus_PCC_7421	251221	4.66	62	99.15	reference	Complete genome	-
+Gloeocapsa_sp_PCC_73106	102232	4.03	41.11	98.84	representative genome	Contig	-
+Halothece_sp_PCC_7418	65093	4.18	42.92	99.48	representative genome	Complete genome	-
+Kamptonema_formosum_PCC_6407	402777	6.89	43.37	99.56	representative genome	Scaffold	-
+Leptolyngbya_boryana_PCC_6306	272134	7.26	47.01	99.41	representative genome	Scaffold	-
+Leptolyngbya_sp_Heron_Island_J	1385935	8.06	48.05	98.64	representative genome	Contig	-
+Leptolyngbya_sp_JSC-1	1487953	7.87	48.86	99.53	representative genome	Scaffold	-
+Leptolyngbya_sp_KIOST-1	1229172	6.32	59.44	99.18	representative genome	Contig	-
+Leptolyngbya_sp_PCC_6406	1173264	5.78	55.11	98.64	representative genome	Scaffold	-
+Leptolyngbya_sp_PCC_7375	102129	9.42	47.62	99.73	representative genome	Scaffold	-
+Leptolyngbya_sp_PCC_7376	111781	5.13	43.87	99.42	representative genome	Complete genome	-
+Leptolyngbya_valderiana_BDU_20041	322866	6.99	59.77	87.93	representative genome	Contig	-
+Lyngbya_aestuarii_BL_J	1348334	6.87	41.16	99.74	representative genome	Contig	-
+Lyngbya_confervoides_BDU141951	1574623	8.8	49.67	99.34	representative genome	Scaffold	-
+Mastigocladopsis_repens_PCC_10914	221288	6.47	43.52	99.76	representative genome	Scaffold	-
+Mastigocladus_laminosus_UU774	1594576	8.56	37.59	74.6	representative genome	Scaffold	-
+Mastigocoleus_testarum_BC008	371196	12.7	37.28	99.04	representative genome	Contig	-
+Microcoleus_sp_PCC_7113	1173027	7.97	46.21	99.56	representative genome	Complete genome	-
+Microcystis_aeruginosa_NIES-843	449447	5.84	42.33	99.89	representative genome	Complete genome	-
+Moorea_producens_JHB	1454205	9.38	43.55	99	representative genome	Chromosome	-
+Myxosarcina_sp_GI1	1541065	7.07	40.1	99.56	representative genome	Contig	-
+Neosynechococcus_sphagnicola_sy1_CAUP_A_1101	1497020	4.33	51.59	96.7	representative genome	Contig	-
+Nodosilinea_nodulosa_PCC_7104	118166	6.89	57.64	99.18	representative genome	Scaffold	-
+Nodularia_spumigena_CCY9414	313624	5.46	41.19	99.76	representative genome	Chromosome	-
+Nostoc_azollae_0708	551115	5.49	38.37	98.89	representative genome	Complete genome	-
+Nostoc_punctiforme_PCC_73102_ATCC_29133	63737	9.06	41.35	99.56	representative genome	Complete genome	-
+Nostoc_sp_PCC_7107	317936	6.33	40.36	99.26	representative genome	Complete genome	-
+Nostoc_sp_PCC_7120	103690	7.21	41.27	99.19	representative genome	Complete genome	-
+Nostoc_sp_PCC_7524	28072	6.72	41.53	99.33	representative genome	Complete genome	-
+Oscillatoria_acuminata_PCC_6304	56110	7.8	47.61	99.71	representative genome	Complete genome	-
+Oscillatoria_nigro-viridis_PCC_7112	179408	8.27	45.78	99.78	representative genome	Complete genome	-
+Oscillatoria_sp_PCC_10802	1173028	8.59	53.94	100	representative genome	Scaffold	-
+Planktothricoides_sp_SR001	1705388	7.07	43.4	100	representative genome	Scaffold	-
+Planktothrix_agardhii_NIVA-CYA_126_8	388467	5.05	39.57	100	representative genome	Chromosome	-
+Pleurocapsa_sp_PCC_7319	118161	7.39	38.73	99.56	representative genome	Scaffold	-
+Pleurocapsa_sp_PCC_7327	118163	4.99	45.19	99.49	representative genome	Complete genome	-
+Prochlorothrix_hollandica_PCC_9006	317619	5.65	54.19	99.18	representative genome	Scaffold	-
+Pseudanabaena_biceps_PCC_7429	927668	5.48	43.18	99.29	representative genome	Contig	-
+Pseudanabaena_sp_PCC_6802	118173	5.62	47.81	99.76	representative genome	Scaffold	-
+Pseudanabaena_sp_PCC_7367	82654	4.89	46.22	98.23	representative genome	Complete genome	-
+Raphidiopsis_brookii_D9	533247	3.19	40.06	99.37	representative genome	Contig	-
+Richelia_intracellularis_HH01	1165094	3.24	33.71	93.44	representative genome	Contig	-
+Rivularia_sp_PCC_7116	373994	8.73	37.53	99.78	representative genome	Complete genome	-
+Rubidibacter_lacunae_KORDI_51-2	582515	4.15	56.22	99.7	representative genome	Contig	-
+Scytonema_hofmanni_UTEX_2349	1469607	8.13	41.14	99.76	representative genome	Scaffold	-
+Scytonema_tolypothrichoides_VB-61278	1233231	7.89	42.33	100	representative genome	Scaffold	-
+Stanieria_cyanosphaera_PCC_7437	111780	5.54	36.22	99.56	representative genome	Complete genome	-
+Synechococcus_elongatus_PCC_6301	269084	2.7	55.48	99.73	representative genome	Complete genome	-
+Synechococcus_sp_CB0101	232348	2.69	64.21	99.73	representative genome	Contig	-
+Synechococcus_sp_CB0205	232363	2.43	62.97	99.18	representative genome	Contig	-
+Synechococcus_sp_GFB01	1662190	2.34	67.77	84.81	representative genome	Contig	-
+Synechococcus_sp_JA-2-3B_a-2-13	321332	3.05	58.45	100	representative genome	Complete genome	-
+Synechococcus_sp_JA-3-3Ab	321327	2.93	60.24	100	representative genome	Complete genome	-
+Synechococcus_sp_NKBG15041c	1407650	3.18	49.25	99.45	representative genome	Contig	-
+Synechococcus_sp_PCC_6312	195253	3.72	48.5	99.29	representative genome	Complete genome	-
+Synechococcus_sp_PCC_7002_ATCC_27264	32049	3.41	49.19	100	representative genome	Complete genome	-
+Synechococcus_sp_PCC_7335	91464	5.97	48.16	98.91	representative genome	Scaffold	-
+Synechococcus_sp_PCC_7336	195250	5.07	53.71	100	representative genome	Chromosome	-
+Synechococcus_sp_PCC_7502	1173263	3.58	40.62	99.76	representative genome	Complete genome	-
+Synechococcus_sp_RCC307	316278	2.22	60.84	99.64	representative genome	Complete genome	-
+Synechococcus_sp_RS9917_RCC556	221360	2.58	64.33	99.46	representative genome	Scaffold	-
+Synechococcus_sp_WH_5701	69042	3.28	60.68	99.18	representative genome	Scaffold	-
+Synechocystis_sp_PCC_7509	927677	4.91	41.67	99.67	representative genome	Scaffold	-
+Thermosynechococcus_elongatus_BP-1	197221	2.59	53.92	99.76	reference	Complete genome	-
+Tolypothrix_bouteillei_VB521301	1479485	11.57	39.57	97.22	representative genome	Scaffold	-
+Tolypothrix_campylonemoides_VB511288	1245935	9.47	44.67	99.52	representative genome	Scaffold	-
+Tolypothrix_sp_PCC_7601_UTEX_B_481	1188	9.98	40.69	99.11	representative genome	Scaffold	-
+Trichodesmium_erythraeum_IMS101	203124	7.75	34.14	99.71	representative genome	Complete genome	-
+Xenococcus_sp_PCC_7305	102125	5.93	39.68	99.78	representative genome	Contig	-
+Acaryochloris_sp_CCMEE_5410	310037	7.88	47.12	99.29	na	Contig	-
+Anabaena_sp_4-3	1811979	5.6	41.36	99.56	na	Scaffold	-
+Anabaena_sp_CA	52271	5.56	41.3	98.56	na	Scaffold	-
+Anabaena_sp_WA102	1647413	5.78	38.38	99.78	na	Complete genome	-
+Aphanizomenon_flos-aquae_2012_KM1_D3	1532906	5.74	38.22	87.52	na	Contig	-
+Arthrospira_maxima_CS-328	513049	6	44.76	96.58	na	Contig	-
+Arthrospira_platensis_C1	459495	6.09	43.55	99.71	na	Chromosome	-
+Arthrospira_platensis_str_Paraca	634502	6.5	44.31	99.34	na	Contig	-
+Arthrospira_platensis_YZ	1738638	6.52	44.19	99.71	na	Chromosome	-
+Arthrospira_sp_PCC_8005	376219	6.23	44.73	99.42	na	Chromosome	-
+Arthrospira_sp_TJSD091	1640536	5.98	44.75	98.51	na	Contig	-
+Calothrix_rhizosoleniae_SC01	439482	5.97	39.47	98.78	na	Contig	-
+Calothrix_sp_HK-06	1137096	9.99	38.81	99.15	na	Scaffold	-
+Candidatus_Synechococcus_spongiarum	431041	1.41	61.86	74.82	na	Contig	-
+Candidatus_Synechococcus_spongiarum_LMB_bulk15N	1943583	1.47	59.8	73.91	na	Scaffold	-
+Chamaesiphon_minutus_PCC_6605	1173020	6.76	45.67	99.48	na	Chromosome	-
+Chlorogloeopsis_fritschii_PCC_9212	184925	7.65	41.5	99.76	na	Contig	-
+Crocosphaera_watsonii_WH_0003	423471	5.89	37.68	99.49	na	Contig	-
+Crocosphaera_watsonii_WH_0005	423472	5.96	37.66	98.4	na	Contig	-
+Crocosphaera_watsonii_WH_0401	555881	4.55	37.66	99.34	na	Contig	-
+Crocosphaera_watsonii_WH_0402	1284629	5.88	37.69	98.14	na	Contig	-
+Crocosphaera_watsonii_WH_8502	423474	4.68	37.63	99.67	na	Contig	-
+Cyanobacterium_sp_IPPAS_B-1200	1562720	3.41	37.73	99.34	na	Contig	-
+Cyanobium_sp_NIES-981	1851505	3.02	68.62	99.73	na	Complete genome	-
+Cyanothece_sp_ATCC_51472	860575	5.46	37.93	99.96	na	Contig	-
+Cyanothece_sp_CCY0110	391612	5.88	36.69	99.78	na	Contig	-
+Cyanothece_sp_PCC_8802	395962	4.8	39.82	99.56	na	Complete genome	-
+Cylindrospermopsis_raciborskii_CENA302	1170768	3.48	40.08	99.74	na	Contig	-
+Cylindrospermopsis_raciborskii_CENA303	1170769	3.4	40.25	99.37	na	Contig	-
+Cylindrospermopsis_raciborskii_CS-505	533240	3.88	40.23	99.85	na	Contig	-
+Cylindrospermopsis_raciborskii_CS-505_CS505	533240	4.16	40.28	99.85	na	Contig	-
+Cylindrospermopsis_raciborskii_CS-508	533243	3.56	40.16	97.41	na	Contig	-
+Cylindrospermopsis_raciborskii_ITEP-A1	1810942	3.61	40.15	99.85	na	Contig	-
+Cylindrospermopsis_raciborskii_MVCC14	940191	3.59	40.08	97.74	na	Contig	-
+Cylindrospermopsis_sp_CR12	1747196	3.72	40.04	99.93	na	Scaffold	-
+Desertifilum_sp_IPPAS_B-1220	1781255	6.09	48.68	99.29	na	Contig	-
+Dolichospermum_circinale_AWQC131C	398007	4.45	37.01	99.56	na	Scaffold	-
+Fischerella_major_NIES-592	210994	5.64	41.03	99.76	na	Scaffold	-
+Fischerella_muscicola_PCC_7414	306281	6.9	41.26	99.52	na	Contig	-
+Fischerella_muscicola_SAG_1427-1	372781	7.36	40.32	99.52	na	Contig	-
+Fischerella_sp_JSC-11	741277	5.38	41.05	99.76	na	Contig	-
+Fischerella_sp_NIES-3754	1752063	5.83	40.98	99.76	na	Complete genome	-
+Fischerella_sp_PCC_9339	1174528	8.01	40.12	99.76	na	Scaffold	-
+Fischerella_sp_PCC_9431	1173023	7.17	40.17	99.76	na	Scaffold	-
+Geitlerinema_sp_PCC_7105	102127	6.15	51.38	93.75	na	Scaffold	-
+Geitlerinema_sp_PCC_9228	111611	4.8	48.8	99.37	na	Scaffold	-
+Geminocystis_sp_NIES-3708	1615909	4.04	32.29	99.78	na	Complete genome	-
+Geminocystis_sp_NIES-3709	1617448	4.43	33.36	99.78	na	Complete genome	-
+Gloeocapsa_sp_PCC_7428	1173026	5.88	43.36	99.78	na	Complete genome	-
+Gloeomargarita_lithophora_Alchichica-D10	1188229	3.05	51.34	98.29	na	Chromosome	-
+Halomicronema_hongdechloris_C2206	1641165	5.57	54.62	98.82	na	Complete genome	-
+Hapalosiphon_sp_MRB220	1704290	7.43	40.19	99.52	na	Scaffold	-
+Hydrococcus_rivularis_NIES-593	1921803	5.15	44.98	99.49	na	Scaffold	-
+Leptolyngbya_boryana_dg5	1260963	6.8	47.01	99.41	na	Complete genome	-
+Leptolyngbya_boryana_IAM_M-101	411966	6.8	47.01	99.41	na	Complete genome	-
+Leptolyngbya_sp_NIES-2104	1552121	6.39	47.43	99.29	na	Contig	-
+Leptolyngbya_sp_NIES-3755	1752064	6.76	46.7	99.41	na	Complete genome	-
+Leptolyngbya_sp_O-77	1080068	5.48	55.93	98.7	na	Complete genome	-
+Limnoraphis_robusta_CS-951	1637645	7.31	41.62	84.72	na	Scaffold	-
+Limnothrix_rosea_IAM_M-220	454133	4.07	45.42	100	na	Scaffold	-
+Lyngbya_sp_PCC_8106	313612	7.04	41.11	99.3	na	Contig	-
+Mastigocladus_laminosus_74	1913078	7.33	32.9	73.45	na	Scaffold	-
+Microcoleus_vaginatus_FGP-2	756067	6.7	46.04	99.67	na	Contig	-
+Microcystis_aeruginosa_CHAOHU_1326	1914535	5.27	42.54	99.67	na	Scaffold	-
+Microcystis_aeruginosa_DIANCHI905	1235808	4.86	42.45	99.01	na	Contig	-
+Microcystis_aeruginosa_KW	1960155	5.89	42.81	97.92	na	Contig	-
+Microcystis_aeruginosa_NaRes975	1914537	5.12	42.41	99.89	na	Contig	-
+Microcystis_aeruginosa_NIES-2481	1698524	4.29	42.91	99.82	na	Complete genome	-
+Microcystis_aeruginosa_NIES-2549	1641812	4.29	42.92	99.89	na	Complete genome	-
+Microcystis_aeruginosa_NIES-44	449439	4.57	43.19	99.89	na	Contig	-
+Microcystis_aeruginosa_NIES-88	449441	5.26	41.37	99.45	na	Scaffold	-
+Microcystis_aeruginosa_NIES-98	267869	4.98	42.41	99.67	na	Scaffold	-
+Microcystis_aeruginosa_PCC_7005	267870	4.91	42.51	99.89	na	Contig	-
+Microcystis_aeruginosa_PCC_7806SL	1903187	5.14	42.09	99.67	na	Complete genome	-
+Microcystis_aeruginosa_PCC_7941	213618	4.8	42.25	98.57	na	Scaffold	-
+Microcystis_aeruginosa_PCC_9432	1160280	4.99	42.16	99.67	na	Scaffold	-
+Microcystis_aeruginosa_PCC_9443	1160281	5.19	42.14	98.36	na	Scaffold	-
+Microcystis_aeruginosa_PCC_9701	721123	4.76	42.42	99.12	na	Scaffold	-
+Microcystis_aeruginosa_PCC_9717	1160286	5.3	42.11	98.57	na	Scaffold	-
+Microcystis_aeruginosa_PCC_9806	1160282	4.26	42.79	99.01	na	Scaffold	-
+Microcystis_aeruginosa_PCC_9807	1160283	5.16	42.01	99.01	na	Scaffold	-
+Microcystis_aeruginosa_PCC_9808	1160284	5.05	42.04	99.01	na	Scaffold	-
+Microcystis_aeruginosa_PCC_9809	1160285	5.01	42.15	98.36	na	Scaffold	-
+Microcystis_aeruginosa_SPC777	482300	5.45	42.65	94.85	na	Contig	-
+Microcystis_aeruginosa_TAIHU98	1134457	4.85	42.45	99.89	na	Contig	-
+Microcystis_sp_T1-4	1160279	4.69	42.78	99.67	na	Contig	-
+Moorea_bouillonii_PNG_PNG5-198	568701	8.32	43.46	98.11	na	Scaffold	-
+Moorea_producens_3L	489825	8.48	43.22	98.11	na	Scaffold	-
+Moorea_producens_PAL_NAK12DEC93-3La	1905009	8.37	43.57	97.74	na	Scaffold	-
+Moorea_producens_PAL-8-15-08-1	1458985	9.71	43.52	99.26	na	Complete genome	-
+Nodularia_spumigena_CENA596	1819295	5.19	41.2	100	na	Contig	-
+Nostoc_calcicola_FACHB-389	1357508	9.05	41.47	99.22	na	Scaffold	-
+Nostoc_piscinale_CENA21	224013	7.09	40.54	96.99	na	Chromosome	-
+Nostoc_sp_KVJ20	457944	9.18	41.69	99.67	na	Scaffold	-
+Nostoc_sp_NIES-3756	1751286	6.99	40.58	99.3	na	Complete genome	-
+Oscillatoria_sp_PCC_6506	272129	6.68	43.4	99.12	na	Contig	-
+Phormidesmis_priestleyi_BC1401	1850361	5.55	49.16	99.29	na	Scaffold	-
+Phormidesmis_priestleyi_ULC007	1920490	5.68	48.56	95.99	na	Scaffold	-
+Phormidium_ambiguum_IAM_M-71	454136	7.41	39.53	99.26	na	Scaffold	-
+Phormidium_tenue_NIES-30	549789	5.82	55.99	99.15	na	Scaffold	-
+Phormidium_willei_BDU_130791	399101	4.6	53.36	88.92	na	Contig	-
+Planktothrix_agardhii_NIVA-CYA_15	329553	5.49	38.81	99.56	na	Scaffold	-
+Planktothrix_agardhii_NIVA-CYA_34	213631	5.52	39.48	99.56	na	Scaffold	-
+Planktothrix_agardhii_NIVA-CYA_56_3	329545	5.51	39.32	99.56	na	Scaffold	-
+Planktothrix_mougeotii_NIVA-CYA_405	545630	5.5	39.29	99.34	na	Scaffold	-
+Planktothrix_paucivesiculata_PCC_9631	671071	68	3.58	98.9	na	Scaffold	-
+Planktothrix_prolifica_NIVA-CYA_406	545626	5.76	38.62	100	na	Scaffold	-
+Planktothrix_prolifica_NIVA-CYA_540	1255359	5.57	39.02	99.78	na	Scaffold	-
+Planktothrix_prolifica_NIVA-CYA_98	329562	5.74	38.76	99.56	na	Scaffold	-
+Planktothrix_rubescens_7821	59512	11.39	19.4	100	na	Scaffold	-
+Planktothrix_rubescens_NIVA-CYA_407	1255374	5.51	38.69	99.89	na	Scaffold	-
+Planktothrix_serta_PCC_8927	671068	55.18	4.48	98.77	na	Scaffold	-
+Planktothrix_tepida_PCC_9214	671072	6.78	39.14	99.78	na	Scaffold	-
+Prochlorococcus_marinus_SCGC_AAA795-F05	1219	1.42	31.36	87.38	na	Contig	-
+Prochlorococcus_marinus_SCGC_AAA795-I06	1219	1.39	31.12	82.32	na	Contig	-
+Prochlorococcus_marinus_SCGC_AAA795-I15	1219	1.28	31.34	82.38	na	Contig	-
+Prochlorococcus_marinus_SCGC_AAA795-J16	1219	1.46	31	86.05	na	Contig	-
+Prochlorococcus_marinus_SCGC_AAA795-M23	1219	1.44	31.19	86.46	na	Contig	-
+Prochlorococcus_marinus_str_MIT_1320	1801623	2.5	50.35	99.46	na	Contig	-
+Prochlorococcus_marinus_str_MIT_1323	1801625	2.44	50.56	99.46	na	Contig	-
+Prochlorococcus_marinus_str_MIT_1342	1801627	2.55	50.26	99.73	na	Contig	-
+Prochlorococcus_sp_MIT_1303	1723647	2.56	50.47	99.46	na	Contig	-
+Prochlorococcus_sp_MIT_1306	1799667	2.5	50.5	99.73	na	Contig	-
+Pseudanabaena_sp_Roaring_Creek_	1681830	5.48	43.33	99.06	na	Contig	-
+Richelia_intracellularis_HM01	1165095	2.21	33.76	64.75	na	Contig	-
+Scytonema_hofmannii_PCC_7110	128403	12.29	41.49	99.76	na	Scaffold	-
+Scytonema_millei_VB511283	1245923	7.25	39.85	53.79	na	Scaffold	-
+Scytonema_sp_HK-05	1137095	9.56	43.71	99.76	na	Scaffold	-
+Spirulina_major_PCC_6313	129961	5.05	53.46	99.67	na	Scaffold	-
+Spirulina_subsalsa_PCC_9445	1173029	5.32	47.39	99.56	na	Scaffold	-
+Synechococcus_elongatus_PCC_7942	1140	2.74	55.43	100	na	Complete genome	-
+Synechococcus_sp_MIT_S9504	1801628	3.09	55.43	99.73	na	Scaffold	-
+Synechococcus_sp_MIT_S9508	1801629	2.5	56.05	100	na	Scaffold	-
+Synechococcus_sp_MIT_S9509	1801630	3.09	55.42	99.18	na	Scaffold	-
+Synechococcus_sp_NKBG042902	490193	3.32	49.35	99.34	na	Contig	-
+Synechococcus_sp_PCC_7003	374981	3.35	49.26	100	na	Complete genome	-
+Synechococcus_sp_PCC_7117	195498	3.43	49.13	100	na	Complete genome	-
+Synechococcus_sp_PCC_73109	374982	3.3	49.34	99.78	na	Complete genome	-
+Synechococcus_sp_PCC_8807	195248	3.3	49.37	100	na	Complete genome	-
+Synechococcus_sp_UTEX_2973	1350461	2.74	55.44	99.73	na	Complete genome	-
+Synechococcus_sp_WH_8020	32052	2.66	53.12	99.73	na	Chromosome	-
+Synechococcus_sp_WH_8103	29410	2.43	59.47	99.73	na	Complete genome	-
+Synechocystis_sp_PCC_6714	1147	3.74	47.55	99.56	na	Complete genome	-
+Synechocystis_sp_PCC_6803	1148	3.95	47.37	99.78	na	Complete genome	-
+Synechocystis_sp_PCC_6803_GT-S	1148	3.57	47.73	99.78	na	Complete genome	-
+Synechocystis_sp_PCC_6803_substr_GT-I	1080228	3.57	47.74	99.78	na	Complete genome	-
+Synechocystis_sp_PCC_6803_substr_PCC-N	1080229	3.57	47.74	99.78	na	Complete genome	-
+Synechocystis_sp_PCC_6803_substr_PCC-P	1080230	3.57	47.74	99.78	na	Complete genome	-
+Thermosynechococcus_sp_NK55a	1394889	2.52	53.81	99.76	na	Chromosome	-
+Trichormus_sp_NMC-1	1853259	5.94	38.92	99	na	Scaffold	-
+Candidatus Caenarcanum bioreactoricola_UASB_169	1906166	0.51	38.37	84.62 (0)	na	Scaffold	Non-oxygenic outgroup
+Candidatus_Gastranaerophilales_bacterium_UMGS1517	2137880	0.68	37.2	87.61 (3.53)	na	Contig	Non-oxygenic outgroup
+Candidatus_Melainabacteria_bacterium_SSGW_16	2052166	0.67	40	94.87 (0.85)	na	Contig	Non-oxygenic outgroup
+Candidatus_Obscuribacter_phosphatis__EBPR_351	1906157	1.62	36.29	97.44 (2.28)	na	Scaffold	Non-oxygenic outgroup
+Candidatus_Sericytochromatia_bacterium_GL2-53_LSPB_72	2762020	1.25	34.23	75.25 (3.85)	na	Contig	Non-oxygenic outgroup
+Candidatus_Sericytochromatia_bacterium_S15B-MN24_CBMW_12	2762020	1.16	35.25	89.74 (2.56)	na	Contig	Non-oxygenic outgroup
+Candidatus_Sericytochromatia_bacterium_S15B-MN24_RAAC_196	2762020	0.97	40.04	80.1 (1.71)	na	Contig	Non-oxygenic outgroup
+Vampirovibrio_chlorellavorus_Vc_AZ_2	758823	0.84	35	95.73 (3.97)		Contig	Non-oxygenic outgroup

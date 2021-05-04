@@ -1,0 +1,34 @@
+ID	Name	Description
+23S	LSU	23S ribosomal RNA
+16S	SSU	16S ribosomal RNA
+COG0049	RpsG	"Ribosomal protein S7 [Translation, ribosomal structure and biogenesis]."
+COG0050	TufB	"Translation elongation factor EF-Tu, a GTPase [Translation, ribosomal structure and biogenesi"
+COG0052	RpsB	"Ribosomal protein S2 [Translation, ribosomal structure and biogenesis]."
+COG0080	RplK	"Ribosomal protein L11 [Translation, ribosomal structure and biogenesis]."
+COG0081	RplA	"Ribosomal protein L1 [Translation, ribosomal structure and biogenesis]."
+COG0085	RpoB	"DNA-directed RNA polymerase, beta subunit/140 kD subunit [Transcription]."
+COG0086	RpoC1	"DNA-directed RNA polymerase, gamma subunit/160 kD subunit [Transcription]."
+COG0086	RpoC2	"DNA-directed RNA polymerase, beta' subunit/160 kD subunit [Transcription]."
+COG0087	RplC	"Ribosomal protein L3 [Translation, ribosomal structure and biogenesis]."
+COG0090	RplB	"Ribosomal protein L2 [Translation, ribosomal structure and biogenesis]."
+COG0092	RpsC	"Ribosomal protein S3 [Translation, ribosomal structure and biogenesis]."
+COG0094	RplE	"Ribosomal protein L5 [Translation, ribosomal structure and biogenesis]."
+COG0097	RplF	"Ribosomal protein L6P/L9E [Translation, ribosomal structure and biogenesis]."
+COG0098	RpsE	"Ribosomal protein S5 [Translation, ribosomal structure and biogenesis]."
+COG0100	RpsK	"Ribosomal protein S11 [Translation, ribosomal structure and biogenesis]."
+COG0102	RplM	"Ribosomal protein L13 [Translation, ribosomal structure and biogenesis]."
+COG0103	RpsI	"Ribosomal protein S9 [Translation, ribosomal structure and biogenesis]."
+COG0197	RplP	"Ribosomal protein L16/L10AE [Translation, ribosomal structure and biogenesis]."
+COG0201	SecY	"Preprotein translocase subunit SecY [Intracellular trafficking, secretion, and vesicular tran"
+COG0202	RpoA	"DNA-directed RNA polymerase, alpha subunit/40 kD subunit [Transcription]."
+COG0250	NusG	Transcription antitermination factor NusG [Transcription].
+COG0480	FusA	"Translation elongation factor EF-G, a GTPase [Translation, ribosomal structure and biogenesis"
+COG0522	RpsD	"Ribosomal protein S4 or related protein [Translation, ribosomal structure and biogenesis]."
+COG0533	TsaD	"tRNA A37 threonylcarbamoyltransferase TsaD [Translation, ribosomal structure and biogenesis]."
+COG0592	DnaN	"DNA polymerase III sliding clamp (beta) subunit, PCNA homolog [Replication, recombination and repair]."
+		
+Reference		
+"Battistuzzi FU, Hedges SB (2008). A major clade of prokaryotes with ancient adaptations to life on land. Mol Biol Evol 26: 335-
+343."		
+"S¨¢nchez-Baracaldo P, Ridgwell A, Raven JA (2014). A neoproterozoic transition in the marine nitrogen cycle. Current Biology
+24: 652-657."		

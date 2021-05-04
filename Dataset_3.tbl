@@ -1,0 +1,215 @@
+Family_ID	COG_ID	Gene	Description
+OG3691	COG0772	FtsW	"Bacterial cell division protein FtsW, lipid II flippase [Cell cycle control, cell division, chromosome partitioning]."
+OG4449*	COG0206	FtsZ	"Cell division GTPase FtsZ [Cell cycle control, cell division, chromosome partitioning]."
+OG2545	COG0771	MurD	UDP-N-acetylmuramoylalanine-D-glutamate ligase [Cell wall/membrane/envelope biogenesis].
+OG2602	COG1207	GlmU	"Bifunctional protein GlmU, N-acetylglucosamine-1-phosphate-uridyltransferase/glucosamine-1-phosphate-acetyltransferase [Cell wall/membrane/envelope biogenesis]."
+OG3799	COG0438	RfaB	Glycosyltransferase involved in cell wall bisynthesis [Cell wall/membrane/envelope biogenesis].
+OG4486	COG0438	RfaB	Glycosyltransferase involved in cell wall bisynthesis [Cell wall/membrane/envelope biogenesis].
+OG5750	COG0451	WcaG	Nucleoside-diphosphate-sugar epimerase [Cell wall/membrane/envelope biogenesis].
+OG7226	COG0812	MurB	UDP-N-acetylenolpyruvoylglucosamine reductase [Cell wall/membrane/envelope biogenesis].
+OG8607	COG0084	TatD	Tat protein secretion system quality control protein TatD (DNase activity) [Cell motility].
+OG425*	COG0542	ClpA	"ATP-dependent Clp protease ATP-binding subunit ClpA [Posttranslational modification, protein turnover, chaperones]."
+OG1182*	COG0443	DnaK	"Molecular chaperone DnaK (HSP70) [Posttranslational modification, protein turnover, chaperones]."
+OG1291*	COG0465	HflB	"ATP-dependent Zn proteases [Posttranslational modification, protein turnover, chaperones]."
+OG1903*	COG0459	GroEL	"Chaperonin GroEL (HSP60 family) [Posttranslational modification, protein turnover, chaperones]."
+OG2491	COG0719	SufB	"Fe-S cluster assembly scaffold protein SufB [Posttranslational modification, protein turnover, chaperones]."
+OG2661	COG0544	Tig	"FKBP-type peptidyl-prolyl cis-trans isomerase (trigger factor) [Posttranslational modification, protein turnover, chaperones]."
+OG2975*	COG1219	ClpX	"ATP-dependent protease Clp, ATPase subunit [Posttranslational modification, protein turnover, chaperones]."
+OG4543	COG0484	DnaJ	"DnaJ-class molecular chaperone with C-terminal Zn finger domain [Posttranslational modification, protein turnover, chaperones]."
+OG6664	COG0755	CcmC	"ABC-type transport system involved in cytochrome c biogenesis, permease component [Posttranslational modification, protein turnover, chaperones]."
+OG9714	COG0396	SufC	"Fe-S cluster assembly ATPase SufC [Posttranslational modification, protein turnover, chaperones]."
+OG12234*	COG0740	ClpP	"ATP-dependent protease ClpP, protease subunit [Posttranslational modification, protein turnover, chaperones]."
+OG17759*	COG0691	SmpB	"tmRNA-binding protein [Posttranslational modification, protein turnover, chaperones]."
+OG25376*	COG0278	GrxD	"Glutaredoxin-related protein [Posttranslational modification, protein turnover, chaperones]."
+OG25557*	COG0526	TrxA	"Thiol-disulfide isomerase or thioredoxin [Posttranslational modification, protein turnover, chaperones]."
+OG907	COG0642	BaeS	Signal transduction histidine kinase [Signal transduction mechanisms].
+OG1352*	COG1217	TypA	Predicted membrane GTPase involved in stress response [Signal transduction mechanisms].
+OG2082*	COG0467	RAD55	"RecA-superfamily ATPase, KaiC/GvpD/RAD55 family [Signal transduction mechanisms]."
+OG4587	COG0642	BaeS	Signal transduction histidine kinase [Signal transduction mechanisms].
+OG10988*	COG0664	Crp	cAMP-binding domain of CRP or a regulatory subunit of cAMP-dependent protein kinases [Signal transduction mechanisms].
+OG18366	COG0394	Wzb	Protein-tyrosine-phosphatase [Signal transduction mechanisms].
+OG265	COG0653	SecA	"Preprotein translocase subunit SecA (ATPase, RNA helicase) [Intracellular trafficking, secretion, and vesicular transport]."
+OG2397	COG0541	Ffh	"Signal recognition particle GTPase [Intracellular trafficking, secretion, and vesicular transport]."
+OG2511	COG0342	SecD	"Preprotein translocase subunit SecD [Intracellular trafficking, secretion, and vesicular transport]."
+OG3395*	COG0201	SecY	"Preprotein translocase subunit SecY [Intracellular trafficking, secretion, and vesicular transport]."
+OG1420	COG1132	MdlB	"ABC-type multidrug transport system, ATPase and permease component [Defense mechanisms]."
+OG1560	COG1132	MdlB	"ABC-type multidrug transport system, ATPase and permease component [Defense mechanisms]."
+OG8574	COG0842	YadH	"ABC-type multidrug transport system, permease component [Defense mechanisms]."
+OG14048*	COG0450	AhpC	Alkyl hydroperoxide reductase subunit AhpC (peroxiredoxin) [Defense mechanisms].
+OG15254*	COG1403	McrA	5-methylcytosine-specific restriction endonuclease McrA [Defense mechanisms].
+OG1373	COG0768	FtsI	"Cell division protein FtsI/penicillin-binding protein 2 [Cell cycle control, cell division, chromosome partitioning, Cell wall/membrane/envelope biogenesis]."
+OG783*	COG1185	Pnp	"Polyribonucleotide nucleotidyltransferase (polynucleotide phosphorylase) [Translation, ribosomal structure and biogenesis]."
+OG891*	COG0480	FusA	"Translation elongation factor EF-G, a GTPase [Translation, ribosomal structure and biogenesis]."
+OG935*	COG0595	RnjA	"mRNA degradation ribonuclease J1/J2 [Translation, ribosomal structure and biogenesis]."
+OG972	COG0445	MnmG	"tRNA U34 5-carboxymethylaminomethyl modifying enzyme MnmG/GidA [Translation, ribosomal structure and biogenesis]."
+OG2488	COG0154	GatA	"Asp-tRNAAsn/Glu-tRNAGln amidotransferase A subunit or related amidase [Translation, ribosomal structure and biogenesis]."
+OG2515	COG0621	MiaB	"tRNA A37 methylthiotransferase MiaB [Translation, ribosomal structure and biogenesis]."
+OG3424	COG0172	SerS	"Seryl-tRNA synthetase [Translation, ribosomal structure and biogenesis]."
+OG3654	COG0162	TyrS	"Tyrosyl-tRNA synthetase [Translation, ribosomal structure and biogenesis]."
+OG4878*	COG0539	RpsA	"Ribosomal protein S1 [Translation, ribosomal structure and biogenesis]."
+OG5039	COG0216	PrfA	"Protein chain release factor A [Translation, ribosomal structure and biogenesis]."
+OG5194	COG0012	GTP1	"Ribosome-binding ATPase YchF, GTP1/OBG family [Translation, ribosomal structure and biogenesis]."
+OG5390	COG0533	TsaD	"tRNA A37 threonylcarbamoyltransferase TsaD [Translation, ribosomal structure and biogenesis]."
+OG5757	COG0223	Fmt	"Methionyl-tRNA formyltransferase [Translation, ribosomal structure and biogenesis]."
+OG5935	COG0016	PheS	"Phenylalanyl-tRNA synthetase alpha subunit [Translation, ribosomal structure and biogenesis]."
+OG6058	COG1600	QueG	"Epoxyqueuosine reductase QueG (queuosine biosynthesis) [Translation, ribosomal structure and biogenesis]."
+OG6399	COG0564	RluA	"Pseudouridylate synthase, 23S rRNA- or tRNA-specific [Translation, ribosomal structure and biogenesis]."
+OG6588	COG1234	ElaC	"Ribonuclease BN, tRNA processing enzyme [Translation, ribosomal structure and biogenesis]."
+OG6946	COG1159	Era	"GTPase Era, involved in 16S rRNA processing [Translation, ribosomal structure and biogenesis]."
+OG7548	COG0101	TruA	"tRNA U38,U39,U40 pseudouridine synthase TruA [Translation, ribosomal structure and biogenesis]."
+OG7880	COG1161	RbgA	"Ribosome biogenesis GTPase A [Translation, ribosomal structure and biogenesis]."
+OG8167	COG0566	SpoU	"tRNA G18 (ribose-2'-O)-methylase SpoU [Translation, ribosomal structure and biogenesis]."
+OG8506	COG0024	Map	"Methionine aminopeptidase [Translation, ribosomal structure and biogenesis]."
+OG9130	COG1189	YqxC	"Predicted rRNA methylase YqxC, contains S4 and FtsJ domains [Translation, ribosomal structure and biogenesis]."
+OG9541*	COG0052	RpsB	"Ribosomal protein S2 [Translation, ribosomal structure and biogenesis]."
+OG11488*	COG0081	RplA	"Ribosomal protein L1 [Translation, ribosomal structure and biogenesis]."
+OG13244*	COG0098	RpsE	"Ribosomal protein S5 [Translation, ribosomal structure and biogenesis]."
+OG13767	COG0193	Pth	"Peptidyl-tRNA hydrolase [Translation, ribosomal structure and biogenesis]."
+OG14137*	COG0522	RpsD	"Ribosomal protein S4 or related protein [Translation, ribosomal structure and biogenesis]."
+OG15443*	COG0231	Efp	"Translation elongation factor P (EF-P)/translation initiation factor 5A (eIF-5A) [Translation, ribosomal structure and biogenesis]."
+OG15930*	COG0233	Frr	"Ribosome recycling factor [Translation, ribosomal structure and biogenesis]."
+OG16246	COG0097	RplF	"Ribosomal protein L6P/L9E [Translation, ribosomal structure and biogenesis]."
+OG16323*	COG0094	RplE	"Ribosomal protein L5 [Translation, ribosomal structure and biogenesis]."
+OG16585	COG0590	TadA	"tRNA(Arg) A34 adenosine deaminase TadA [Translation, ribosomal structure and biogenesis]."
+OG16960*	COG0244	RplJ	"Ribosomal protein L10 [Translation, ribosomal structure and biogenesis]."
+OG18594*	COG0049	RpsG	"Ribosomal protein S7 [Translation, ribosomal structure and biogenesis]."
+OG19291	COG0200	RplO	"Ribosomal protein L15 [Translation, ribosomal structure and biogenesis]."
+OG19392*	COG0102	RplM	"Ribosomal protein L13 [Translation, ribosomal structure and biogenesis]."
+OG20601	COG0858	RbfA	"Ribosome-binding factor A [Translation, ribosomal structure and biogenesis]."
+OG20776*	COG0080	RplK	"Ribosomal protein L11 [Translation, ribosomal structure and biogenesis]."
+OG21459*	COG0103	RpsI	"Ribosomal protein S9 [Translation, ribosomal structure and biogenesis]."
+OG21598*	COG0096	RpsH	"Ribosomal protein S8 [Translation, ribosomal structure and biogenesis]."
+OG22505*	COG0048	RpsL	"Ribosomal protein S12 [Translation, ribosomal structure and biogenesis]."
+OG23198*	COG0099	RpsM	"Ribosomal protein S13 [Translation, ribosomal structure and biogenesis]."
+OG23416*	COG0256	RplR	"Ribosomal protein L18 [Translation, ribosomal structure and biogenesis]."
+OG24026*	COG0198	RplX	"Ribosomal protein L24 [Translation, ribosomal structure and biogenesis]."
+OG26629*	COG0089	RplW	"Ribosomal protein L23 [Translation, ribosomal structure and biogenesis]."
+OG26634*	COG0199	RpsN	"Ribosomal protein S14 [Translation, ribosomal structure and biogenesis]."
+OG27183*	COG0254	RpmE	"Ribosomal protein L31 [Translation, ribosomal structure and biogenesis]."
+OG27508	COG0721	GatC	"Asp-tRNAAsn/Glu-tRNAGln amidotransferase C subunit [Translation, ribosomal structure and biogenesis]."
+OG28588*	COG0361	InfA	"Translation initiation factor IF-1 [Translation, ribosomal structure and biogenesis]."
+OG29079*	COG0184	RpsO	"Ribosomal protein S15P/S13E [Translation, ribosomal structure and biogenesis]."
+OG29422*	COG0211	RpmA	"Ribosomal protein L27 [Translation, ribosomal structure and biogenesis]."
+OG31261*	COG0227	RpmB	"Ribosomal protein L28 [Translation, ribosomal structure and biogenesis]."
+OG32944*	COG0238	RpsR	"Ribosomal protein S18 [Translation, ribosomal structure and biogenesis]."
+OG2477*	COG0195	NusA	"Transcription antitermination factor NusA, contains S1 and KH domains [Transcription]."
+OG3271*	COG0568	RpoD	"DNA-directed RNA polymerase, sigma subunit (sigma70/sigma32) [Transcription]."
+OG6679*	COG0583	LysR	"DNA-binding transcriptional regulator, LysR family [Transcription]."
+OG7113*	COG0202	RpoA	"DNA-directed RNA polymerase, alpha subunit/40 kD subunit [Transcription]."
+OG12597*	COG0250	NusG	Transcription antitermination factor NusG [Transcription].
+OG16737	COG1386	ScpB	Chromosome segregation and condensation protein ScpB [Transcription].
+OG229	COG0178	UvrA	"Excinuclease UvrABC ATPase subunit [Replication, recombination and repair]."
+OG390	COG0188	GyrA	"DNA gyrase/topoisomerase IV, subunit A [Replication, recombination and repair]."
+OG443	COG1200	RecG	"RecG-like helicase [Replication, recombination and repair]."
+OG495	COG0210	UvrD	"Superfamily I DNA or RNA helicase [Replication, recombination and repair]."
+OG929	COG0556	UvrB	"Excinuclease UvrABC helicase subunit UvrB [Replication, recombination and repair]."
+OG944	COG0322	UvrC	"Excinuclease UvrABC, nuclease subunit [Replication, recombination and repair]."
+OG4412	COG0592	DnaN	"DNA polymerase III sliding clamp (beta) subunit, PCNA homolog [Replication, recombination and repair]."
+OG4823	COG2255	RuvB	"Holliday junction resolvasome RuvABC, ATP-dependent DNA helicase subunit [Replication, recombination and repair]."
+OG4880	COG1195	RecF	"Recombinational DNA repair ATPase RecF [Replication, recombination and repair]."
+OG7676	COG0266	Nei	"Formamidopyrimidine-DNA glycosylase [Replication, recombination and repair]."
+OG9041	COG0496	SurE	"Broad specificity polyphosphatase and 5'/3'-nucleotidase SurE [Replication, recombination and repair]."
+OG14257*	COG0353	RecR	"Recombinational DNA repair protein RecR [Replication, recombination and repair]."
+OG22108*	COG0629	Ssb	"Single-stranded DNA-binding protein [Replication, recombination and repair]."
+OG5326	COG0750	RseP	"Membrane-associated protease RseP, regulator of RpoE activity [Posttranslational modification, protein turnover, chaperones, Transcription]."
+OG593	COG0317	SpoT	"(p)ppGpp synthase/hydrolase, HD superfamily [Signal transduction mechanisms, Transcription]."
+OG9248*	COG0745	OmpR	"DNA-binding response regulator, OmpR family, contains REC and winged-helix (wHTH) domain [Signal transduction mechanisms, Transcription]."
+OG10630*	COG0745	OmpR	"DNA-binding response regulator, OmpR family, contains REC and winged-helix (wHTH) domain [Signal transduction mechanisms, Transcription]."
+OG10989*	COG2197	CitB	"DNA-binding response regulator, NarL/FixJ family, contains REC and HTH domains [Signal transduction mechanisms, Transcription]."
+OG1699*	COG1008	NuoM	NADH:ubiquinone oxidoreductase subunit 4 (chain M) [Energy production and conversion].
+OG2323*	COG0056	AtpA	"FoF1-type ATP synthase, alpha subunit [Energy production and conversion]."
+OG2575	COG1249	Lpd	"Pyruvate/2-oxoglutarate dehydrogenase complex, dihydrolipoamide dehydrogenase (E3) component or related enzyme [Energy production and conversion]."
+OG2577*	COG0055	AtpD	"FoF1-type ATP synthase, beta subunit [Energy production and conversion]."
+OG2710*	COG0644	FixC	Dehydrogenase (flavoprotein) [Energy production and conversion].
+OG4536*	COG1005	NuoH	NADH:ubiquinone oxidoreductase subunit 1 (chain H) [Energy production and conversion].
+OG4848*	COG1071	AcoA	TPP-dependent pyruvate or acetoin dehydrogenase subunit alpha [Energy production and conversion].
+OG6952	COG0224	AtpG	"FoF1-type ATP synthase, gamma subunit [Energy production and conversion]."
+OG10155*	COG0377	NuoB	NADH:ubiquinone oxidoreductase 20 kD subunit (chhain B) or related Fe-S oxidoreductase [Energy production and conversion].
+OG14604*	COG0839	NuoJ	NADH:ubiquinone oxidoreductase subunit 6 (chain J) [Energy production and conversion].
+OG15982*	COG0723	QcrA	Rieske Fe-S protein [Energy production and conversion].
+OG16389*	COG0712	AtpH	"FoF1-type ATP synthase, delta subunit [Energy production and conversion]."
+OG21795*	COG0355	AtpC	"FoF1-type ATP synthase, epsilon subunit [Energy production and conversion]."
+OG23609	COG0838	NuoA	NADH:ubiquinone oxidoreductase subunit 3 (chain A) [Energy production and conversion].
+OG25542*	COG0713	NuoK	NADH:ubiquinone oxidoreductase subunit 11 or 4L (chain K) [Energy production and conversion].
+OG1837	COG0119	LeuA	Isopropylmalate/homocitrate/citramalate synthases [Amino acid transport and metabolism].
+OG2870	COG0019	LysA	Diaminopimelate decarboxylase [Amino acid transport and metabolism].
+OG3131	COG0141	HisD	Histidinol dehydrogenase [Amino acid transport and metabolism].
+OG3348	COG0460	ThrA	Homoserine dehydrogenase [Amino acid transport and metabolism].
+OG3426	COG0112	GlyA	Glycine/serine hydroxymethyltransferase [Amino acid transport and metabolism].
+OG4135	COG4992	ArgD	Acetylornithine/succinyldiaminopimelate/putrescine aminotransferase [Amino acid transport and metabolism].
+OG4171	COG0436	AspB	Aspartate/methionine/tyrosine aminotransferase [Amino acid transport and metabolism].
+OG4947	COG0337	AroB	3-dehydroquinate synthetase [Amino acid transport and metabolism].
+OG5079	COG0263	ProB	Glutamate 5-kinase [Amino acid transport and metabolism].
+OG5810	COG0136	Asd	Aspartate-semialdehyde dehydrogenase [Amino acid transport and metabolism].
+OG6960	COG0083	ThrB	Homoserine kinase [Amino acid transport and metabolism].
+OG7112	COG0287	TyrA	Prephenate dehydrogenase [Amino acid transport and metabolism].
+OG7727	COG0685	MetF	"5,10-methylenetetrahydrofolate reductase [Amino acid transport and metabolism]."
+OG10138	COG0106	HisA	Phosphoribosylformimino-5-aminoimidazole carboxamide ribonucleotide (ProFAR) isomerase [Amino acid transport and metabolism].
+OG11912	COG0135	TrpF	Phosphoribosylanthranilate isomerase [Amino acid transport and metabolism].
+OG12701	COG0040	HisG	ATP phosphoribosyltransferase [Amino acid transport and metabolism].
+OG17107*	COG0440	IlvH	"Acetolactate synthase, small subunit [Amino acid transport and metabolism]."
+OG22052*	COG0509	GcvH	Glycine cleavage system H protein (lipoate-binding) [Amino acid transport and metabolism].
+OG2375	COG0034	PurF	Glutamine phosphoribosylpyrophosphate amidotransferase [Nucleotide transport and metabolism].
+OG3322*	COG0015	PurB	Adenylosuccinate lyase [Nucleotide transport and metabolism].
+OG7387*	COG0061	NadF	NAD kinase [Nucleotide transport and metabolism].
+OG11355	COG0528	PyrH	Uridylate kinase [Nucleotide transport and metabolism].
+OG15375	COG0194	Gmk	Guanylate kinase [Nucleotide transport and metabolism].
+OG15941	COG0563	Adk	Adenylate kinase or related kinase [Nucleotide transport and metabolism].
+OG1418*	COG0469	PykF	Pyruvate kinase [Carbohydrate transport and metabolism].
+OG1775	COG0696	GpmI	"Phosphoglycerate mutase (BPG-independent, AlkP superfamily) [Carbohydrate transport and metabolism]."
+OG1885	COG1543	COG1543	"Predicted glycosyl hydrolase, contains GH57 and DUF1957 domains [Carbohydrate transport and metabolism]."
+OG2085*	COG0364	Zwf	Glucose-6-phosphate 1-dehydrogenase [Carbohydrate transport and metabolism].
+OG2129*	COG0297	GlgA	Glycogen synthase [Carbohydrate transport and metabolism].
+OG2430	COG1109	ManB	Phosphomannomutase [Carbohydrate transport and metabolism].
+OG3103	COG0406	PhoE	Broad specificity phosphatase PhoE [Carbohydrate transport and metabolism].
+OG3332*	COG0448	GlgC	ADP-glucose pyrophosphorylase [Carbohydrate transport and metabolism].
+OG4126*	COG0126	Pgk	3-phosphoglycerate kinase [Carbohydrate transport and metabolism].
+OG5742*	COG0057	GapA	Glyceraldehyde-3-phosphate dehydrogenase/erythrose-4-phosphate dehydrogenase [Carbohydrate transport and metabolism].
+OG6085*	COG1494	GlpX	"Fructose-1,6-bisphosphatase/sedoheptulose 1,7-bisphosphatase or related protein [Carbohydrate transport and metabolism]."
+OG7852	COG0483	SuhB	"Archaeal fructose-1,6-bisphosphatase or related enzyme of inositol monophosphatase family [Carbohydrate transport and metabolism]."
+OG10721	COG0149	TpiA	Triosephosphate isomerase [Carbohydrate transport and metabolism].
+OG11531	COG0120	RpiA	Ribose 5-phosphate isomerase [Carbohydrate transport and metabolism].
+OG64	COG1429	CobN	"Cobalamin biosynthesis protein CobN, Mg-chelatase [Coenzyme transport and metabolism]."
+OG1524*	COG0108	RibB	"3,4-dihydroxy-2-butanone 4-phosphate synthase [Coenzyme transport and metabolism]."
+OG1634	COG0171	NadE	NH3-dependent NAD+ synthetase [Coenzyme transport and metabolism].
+OG2655*	COG0422	ThiC	Thiamine biosynthesis protein ThiC [Coenzyme transport and metabolism].
+OG3338*	COG0001	HemL	Glutamate-1-semialdehyde aminotransferase [Coenzyme transport and metabolism].
+OG3341	COG0373	HemA	Glutamyl-tRNA reductase [Coenzyme transport and metabolism].
+OG5256*	COG1239	ChlI	Mg-chelatase subunit ChlI [Coenzyme transport and metabolism].
+OG5429	COG0352	ThiE	Thiamine monophosphate synthase [Coenzyme transport and metabolism].
+OG5535	COG0379	NadA	Quinolinate synthase [Coenzyme transport and metabolism].
+OG6659*	COG0142	IspA	Geranylgeranyl pyrophosphate synthase [Coenzyme transport and metabolism].
+OG6798*	COG0382	UbiA	4-hydroxybenzoate polyprenyltransferase [Coenzyme transport and metabolism].
+OG6889*	COG0181	HemC	Porphobilinogen deaminase [Coenzyme transport and metabolism].
+OG6983	COG0320	LipA	Lipoate synthase [Coenzyme transport and metabolism].
+OG7197	COG0196	RibF	FAD synthase [Coenzyme transport and metabolism].
+OG7620	COG0190	FolD	"5,10-methylene-tetrahydrofolate dehydrogenase/Methenyl tetrahydrofolate cyclohydrolase [Coenzyme transport and metabolism]."
+OG9475	COG0007	CysG	Uroporphyrinogen-III methylase (siroheme synthase) [Coenzyme transport and metabolism].
+OG16135	COG0054	RibE	"6,7-dimethyl-8-ribityllumazine synthase (Riboflavin synthase beta chain) [Coenzyme transport and metabolism]."
+OG17443*	COG0669	CoaD	Phosphopantetheine adenylyltransferase [Coenzyme transport and metabolism].
+OG5924	COG0332	FabH	3-oxoacyl-[acyl-carrier-protein] synthase III [Lipid transport and metabolism].
+OG6668	COG1562	ERG9	Phytoene/squalene synthetase [Lipid transport and metabolism].
+OG7447	COG0331	FabD	Malonyl CoA-acyl carrier protein transacylase [Lipid transport and metabolism].
+OG7697	COG0575	CdsA	CDP-diglyceride synthetase [Lipid transport and metabolism].
+OG7764*	COG0777	AccD	Acetyl-CoA carboxylase beta subunit [Lipid transport and metabolism].
+OG11745	COG0204	PlsC	1-acyl-sn-glycerol-3-phosphate acyltransferase [Lipid transport and metabolism].
+OG18593*	COG0764	FabA	3-hydroxymyristoyl/3-hydroxydecanoyl-(acyl carrier protein) dehydratase [Lipid transport and metabolism].
+OG7445	COG0329	DapA	"Dihydrodipicolinate synthase/N-acetylneuraminate lyase [Amino acid transport and metabolism, Cell wall/membrane/envelope biogenesis]."
+OG1656	COG0661	AarF	"Predicted unusual protein kinase regulating ubiquinone biosynthesis, AarF/ABC1/UbiB family [Coenzyme transport and metabolism, Signal transduction mechanisms]."
+OG6915	COG0189	RimK	"Glutathione synthase/RimK-type ligase, ATP-grasp superfamily [Coenzyme transport and metabolism, Translation, ribosomal structure and biogenesis]."
+OG5150	COG0473	LeuB	"Isocitrate/isopropylmalate dehydrogenase [Energy production and conversion, Amino acid transport and metabolism]."
+OG148	COG0458	CarB	"Carbamoylphosphate synthase large subunit [Amino acid transport and metabolism, Nucleotide transport and metabolism]."
+OG6196	COG0059	IlvC	"Ketol-acid reductoisomerase [Amino acid transport and metabolism, Coenzyme transport and metabolism]."
+OG2943	COG0391	CofD	"Archaeal 2-phospho-L-lactate transferase/Bacterial gluconeogenesis factor, CofD/UPF0052 family [Coenzyme transport and metabolism, Carbohydrate transport and metabolism]."
+OG1087	COG1154	Dxs	"Deoxyxylulose-5-phosphate synthase [Coenzyme transport and metabolism, Lipid transport and metabolism]."
+OG24322	COG0537	Hit	"Diadenosine tetraphosphate (Ap4A) hydrolase or other HIT family hydrolase [Nucleotide transport and metabolism, Carbohydrate transport and metabolism, General function prediction only]."
+OG10633	COG1028	FabG	"NAD(P)-dependent dehydrogenase, short-chain alcohol dehydrogenase family [Lipid transport and metabolism, Secondary metabolites biosynthesis, transport and catabolism, General function prediction only]."
+OG2042	COG0111	SerA	"Phosphoglycerate dehydrogenase or related dehydrogenase [Coenzyme transport and metabolism, General function prediction only]."
+OG11575	COG1122	EcfA2	"Energy-coupling factor transporter ATP-binding protein EcfA2 [Inorganic ion transport and metabolism, General function prediction only]."
+OG12926	COG1122	EcfA2	"Energy-coupling factor transporter ATP-binding protein EcfA2 [Inorganic ion transport and metabolism, General function prediction only]."
+OG2000	COG1100	Gem1	GTPase SAR1 family domain [General function prediction only].
+OG2927	COG1160	Der	Predicted GTPases [General function prediction only].
+OG7813	COG0457	TPR	Tetratricopeptide (TPR) repeat [General function prediction only].
+OG8800*	COG0388	YafV	Predicted amidohydrolase [General function prediction only].
+OG9628	COG0491	GloB	"Glyoxylase or a related metal-dependent hydrolase, beta-lactamase superfamily II [General function prediction only]."
+OG26026*	COG0762	Ycf19	"Uncharacterized conserved protein YggT, Ycf19 family [Function unknown]."
